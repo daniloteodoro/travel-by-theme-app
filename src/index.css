@@ -1,0 +1,13 @@
+body, html, #root {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	height: 100%;
+	font-family: 'Barlow', sans-serif;
+	color: #2a3448;
+	font-style: normal;
+	font-stretch: normal;
+	letter-spacing: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+};

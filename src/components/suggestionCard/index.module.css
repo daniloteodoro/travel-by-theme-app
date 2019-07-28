@@ -1,0 +1,13 @@
+
+.root {
+	display: flex;
+}
+
+.cardContent {
+	display: grid;
+	grid-row-gap: 10px;
+}
+
+.spacing {
+	margin-right: 8px;
+}

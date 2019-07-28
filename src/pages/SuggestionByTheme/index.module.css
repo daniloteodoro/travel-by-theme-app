@@ -1,0 +1,27 @@
+
+.main {
+	padding: 8px;
+}
+
+.suggestionList {
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+}
+
+.suggestionItem {
+	margin: 5px;
+}
+
+.loadingBar {
+	margin: 5px;
+}
+
+.noDataBox {
+	display: flex;
+	justify-content: center;
+}
+
+.noDataGrid {
+	display: grid;
+	margin-top: 20px;
+}

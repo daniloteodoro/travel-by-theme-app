@@ -1,0 +1,55 @@
+
+.root {
+	display: flex;
+	width: 100%;
+}
+
+.avatar {
+	width: 80px;
+	height: 80px;
+	margin: 5px;
+}
+
+.separator {
+	border-right: 1px silver solid;
+}
+
+.theme {
+	font-size: 20pt;
+	font-weight: 600;
+}
+
+.themeGroup {
+	display: flex;
+	flex-direction: column;
+	padding: 0px 15px;
+	width: 470px;
+}
+
+.originGroup {
+	display: flex;
+	flex-direction: column;
+	padding: 5px 15px;
+}
+
+.goBackDiv {
+	display: flex;
+	align-items: center;
+	min-width: 40px;
+}
+
+.filterGroup {
+	display: grid;
+	grid-template-columns: 27% 27% 20% 26%;
+	grid-column-gap: 10px;
+	margin-right: 10px;
+}
+
+.filterHeader {
+	text-align: right;
+}
+
+.filterContent {
+	text-align: left;
+	font-weight: bold;
+}
