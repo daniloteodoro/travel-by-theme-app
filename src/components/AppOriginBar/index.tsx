@@ -56,7 +56,7 @@ export default function AppOriginBar(props: Props): JSX.Element {
 		<div className={clsx(classes.root, className)}>
 			<Avatar src={appImage} className={classes.appAvatar}>Themes</Avatar>
 			<div className={classes.themeGroup}>
-				<span className={classes.theme}>Reasons to Travel App</span>
+				<span className={classes.theme}>Travel by Theme App</span>
 				<span>Fill out the fields on the right and <br />choose a theme below to continue</span>
 			</div>
 			<div className={classes.separator} />

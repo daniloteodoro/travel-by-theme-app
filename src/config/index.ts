@@ -1,3 +1,3 @@
-const reasonToTravelApiUrl: string = process.env.REASON_TO_TRAVEL_API_URL || 'http://localhost:8080/';
+const locationsByThemeApiUrl: string = process.env.LOCATIONS_BY_THEME_API_URL || 'http://localhost:8080/';
 
-export default reasonToTravelApiUrl;
+export default locationsByThemeApiUrl;
